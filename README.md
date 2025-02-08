@@ -1,4 +1,4 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
+![MasterHead](https://github.com/user-attachments/assets/7b07ad5d-21b1-4372-a354-17ed6c4ab0a6)
 
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A software test engineer from Turkey</h3>
